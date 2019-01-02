@@ -1,0 +1,20 @@
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\obj\Debug\Group5CW1.csprojResolveAssemblyReference.cache
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\obj\Debug\Group5CW1.Properties.Resources.resources
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\obj\Debug\Group5CW1.csproj.GenerateResource.Cache
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\obj\Debug\Group5CW1.csproj.CoreCompileInputs.cache
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\bin\Debug\Group5CW1.exe.config
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\bin\Debug\Group5CW1.exe
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\bin\Debug\Group5CW1.pdb
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\obj\Debug\Group5CW1.exe
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\obj\Debug\Group5CW1.pdb
+C:\Users\kkask\source\repos\Group5CW1\Group5CW1\obj\Debug\Group5CW1.Form1.resources
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\bin\Debug\Group5CW1.exe.config
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\bin\Debug\Group5CW1.exe
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\bin\Debug\Group5CW1.pdb
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\obj\Debug\Group5CW1.csprojAssemblyReference.cache
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\obj\Debug\Group5CW1.Form1.resources
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\obj\Debug\Group5CW1.Properties.Resources.resources
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\obj\Debug\Group5CW1.csproj.GenerateResource.cache
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\obj\Debug\Group5CW1.csproj.CoreCompileInputs.cache
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\obj\Debug\Group5CW1.exe
+C:\Users\kkask\OneDrive\Desktop\Group 5 - C# Array Game\Group5CW1\Group5CW1\obj\Debug\Group5CW1.pdb
